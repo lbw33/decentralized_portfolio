@@ -17,14 +17,16 @@ class App extends Component {
               <br />
                 <ReactTypingEffect
               text={[
-                "Welcome to my portfolio",
-                "Bienvenue dans mon portfolio",
-                "benvenuto nel mio portfolio",
-                "Bienvenido a mi cartera",
-                "Willkommen in meinem Portfolio",
-                "私のポートフォリオへようこそ",
-                "欢迎来到我的投资组合",
-                "مرحبا بكم في محفظتي"
+                "🇬🇧 Welcome to my portfolio",
+                "🇫🇷 Bienvenue dans mon portfolio",
+                "🇪🇸 Benvenuto nel mio portfolio",
+                "🇮🇹 Bienvenido a mi cartera",
+                "🇩🇪 Willkommen in meinem portfolio",
+                "🇷🇺 Добро пожаловать в мое портфолио",
+                "🇯🇵 私のポートフォリオへようこそ",
+                "🇨🇳 欢迎来到我的投资组合",
+                "🇰🇷 내 포트폴리오에 오신 것을 환영합니다",
+                "🇦🇪 مرحبا بكم في محفظتي"
               ]}
               speed='40'
               eraseSpeed='10'
