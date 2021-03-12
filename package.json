@@ -1,8 +1,9 @@
 {
-  "name": "eth-marketplace",
+  "name": "luke-wickens-portfolio",
   "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
-  "author": "gregory@dappuniversity.com",
+  "description": "My decentralized portfolio site",
+  "author": "lukewickens1989@gmail.com",
+  "homepage": ".",
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
