@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import MyPicture from '../assets/picture_me.JPG';
 import Navbar from './Navbar'
+import Footer from './Footer'
 import ReactTypingEffect from 'react-typing-effect';
 import './styles/App.css';
 
@@ -49,12 +50,14 @@ class App extends Component {
               }}
             />
                 <p>
-                  This website <strike>is running</strike> will be running on IPFS!
+                  This website is running on IPFS!
+                  Currently a work in progress.
                 </p>
               </div>
             </main>
           </div>
         </div>
+        <Footer />
       </div>
     );
   }
